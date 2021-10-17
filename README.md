@@ -27,6 +27,15 @@ $**git log** : `shows the commit history.`
 
 $**git clone https://github.com/weaksou/memory.git** : `will clone the repository to your folder(weaksou>desktop> here)`.  
 
+$ **git remote -v** : View current remotes.
+
+`Note: git remote rm does not delete the remote repository from the server. It simply removes the remote and its references from your local repository.`
+
+$ **git remote rename origin *destination*** : Change remote name from 'origin' to 'destination'.
+
+
+$**git remote set-url origin https://github.com/your/repository** : The *git remote set-url* command changes an existing remote repository URL. 
+
 ## javascript && server devlopmenet courses
 
 **node.js >** *express.js keywords*:
