@@ -1,0 +1,43 @@
+//commands
+"ipconfig" get your own ip informations;
+"
+//git commands / learning how to use git version control
+?-git steps:
+$git init 
+$git add . 
+$git status
+?>create a file called .gitignore and add files you don't want to upload to it
+$git commit -m "Message" : commit files that are not selected in .gitignore with a message
+$git remote add origin https://github.com/weaksou/"repositryname".git : origin is the name of your remote 
+$git push -u origin master : pushes local repositrie to the remote cloud
+$
+$
+$git rm --cached .
+$git log
+$
+
+
+
+
+
+//javascript && server devlopmenet courses
+node.js > express.js keywords:
+"__dirname" : a command that allows us to fidn the current file location;
+
+//hacking and network explaining for my short memory;
+"CIDR" Classless Inter-Domain Routing, tari9a ktst3ml l t7did l 'IP' yat;
+"subnetwork" wwa7d zbi ms2ol 3la t9sim network lnetworkat akhrin o kykon 3nd l2ajhiza li t3aljo o kyntamiw l nfs chbka wa7d subnet kykon 3ndhom lIP 9rab bchi bsma m3tya lihm;
+
+"ICMP" protocol kytst3ml bach y2kdo bih wach data ktwsl ola la, Internet control message protocol;
+
+"UDP" User Datagram Protocol, wa7d protocol ky7dd l9wa3id, synatx, semantics(dalalat), o tazamon(synchronization ) dyal l2itsal dyal o l2khta2 lmo7tmla (communication and possible error recovery methods);
+
+"DHCP" Dynamic Host Configuration Protocol, wa7d protocol ola zbi(server side program) kyfr9 3la kola pc ip, b7al chi routor kysawb lkola pc ip dyalo bo7do;
+
+"ARP" mtln nta pc 1 kt9lb 3la pc 2  om3arfch fin kyn kt9ol lswitch 9lb lya 3lih, o switch kyzml o kybda yghwt ki l97ba (FFFFFFFFFFFF) o fach pc 2 kysm3o ky9olih hani gha sktna awld l97ba;
+
+"DNS" domain names server b7al chi map fiha smyat dyal lblays nta ktktb smya o lpc kyakhd cordinates;
+
+
+
+
