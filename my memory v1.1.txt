@@ -3,17 +3,17 @@
 "
 //git commands / learning how to use git version control
 ?-git steps:
-$git init 
-$git add . 
-$git status
+$git init : git initiate
+$git add .  : add you files to git stage area
+$git status : shows you the files that are in or out the stage area
 ?>create a file called .gitignore and add files you don't want to upload to it
 $git commit -m "Message" : commit files that are not selected in .gitignore with a message
 $git remote add origin https://github.com/weaksou/"repositryname".git : origin is the name of your remote 
 $git push -u origin master : pushes local repositrie to the remote cloud
 $
 $
-$git rm --cached .
-$git log
+$git rm --cached : remove cached files : git add files   (use "git rm --cached <file>..." to unstage)
+$git log : shows the commit history
 $
 
 
