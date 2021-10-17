@@ -25,6 +25,8 @@ $**git rm --cached** : `remove cached files : git add files   (use "git rm --cac
 
 $**git log** : `shows the commit history.`
 
+$**git clone https://github.com/weaksou/memory.git** : `will clone the repository to your folder(weaksou>desktop> here)`.  
+
 ## javascript && server devlopmenet courses
 
 **node.js >** *express.js keywords*:
